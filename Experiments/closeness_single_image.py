@@ -20,9 +20,9 @@ if __name__ == "__main__":
     # Define Directories of inputs and Outputs
 
     #input_directory = 'Inputs/SingleImageTests'
-    input_directory = 'Inputs/Cropped/KTH_TIPS/cotton'
+    input_directory = '../Inputs/Cropped/KTH_TIPS/cotton'
     #output_directory = 'Outputs/SingleImageTests'
-    output_directory = 'Outputs/cotton'
+    output_directory = '../Outputs/cotton'
     #image_name = '/test_10_10.tiff'
     image_name = '/46-scale_1_im_2_grey.png_1.png'
 
